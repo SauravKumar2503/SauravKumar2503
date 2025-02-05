@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravkumar2503&show_icons=true&locale=en" alt="sauravkumar2503" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkumar2503&" alt="sauravkumar2503" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkumar2503" alt="sauravkumar2503" /></p>
