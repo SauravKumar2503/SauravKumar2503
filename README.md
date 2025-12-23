@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SauravKumar2503?tab=repositories](https://github.com/SauravKumar2503?tab=repositories)
 
-- 💬 Ask me about **Java, C++, React, Html, Css, Js**
+- 💬 Ask me about **Java, Oops, SQL, C++, React, Node.Js, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **sourav2002kumar@gmail.com**
 
