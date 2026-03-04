@@ -1,4 +1,4 @@
-![](https://github.com/tushar-karn/tushar-karn/blob/main/github.png)
+
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <br>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
