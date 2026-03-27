@@ -18,9 +18,9 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sauravkumar12210477/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sauravkumar12210477/" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravkumar2503" alt="sauravkumar2503" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravkumar2503" alt="sauravkumar2503" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/@sauravk00065163" target="blank"><img src="https://img.shields.io/twitter/follow/@sauravk00065163?logo=twitter&style=for-the-badge" alt="@sauravk00065163" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/saurav232" target="blank"><img src="https://img.shields.io/twitter/follow/@sauravk00065163?logo=twitter&style=for-the-badge" alt="www.linkedin.com/in/saurav232" /></a> </p>
 
 - 🔭 I’m currently working on **My self**
 
